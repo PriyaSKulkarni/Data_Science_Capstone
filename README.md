@@ -1,6 +1,6 @@
 # Data_Science_Capstone
 
-**README: Data Science Capstone Project**
+**Data Science Capstone Project**
 
 **Project Title:** Predicting Successful Stage 1 Recovery for Space Y Rockets
 
